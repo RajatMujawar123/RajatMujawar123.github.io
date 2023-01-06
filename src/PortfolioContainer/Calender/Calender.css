@@ -1,0 +1,140 @@
+
+
+/* 
+ .calender{
+    
+    display: flex;
+    padding: 10px;
+   
+} 
+.calender_heading{
+   padding-top: 80px;
+  
+    margin: auto;
+    color: #e9ecef;
+    width: 15%; 
+    display: flex;
+    margin: auto;
+} 
+
+ @media screen and (max-width: 600px){
+    .calender_heading{
+        font-size: 24px;
+        color: #ffffff;
+      
+
+     } 
+} 
+
+  @media screen and (max-width: 340px){
+    .calender_heading{
+        font-size: 20px;
+        color: #ffffff;
+        
+     } 
+ }  
+
+
+
+
+
+.cal{
+    margin-top: 50px;
+    
+}
+
+
+
+.calender{
+    
+    display: flex;
+    padding: 10px;
+   
+}
+.cal_heading{
+    color: rgb(255,180,0);
+    font-family: 'Montserrat', sans-serif;
+   padding-top: 80px;
+   
+    display: flex;
+    margin: auto;
+}
+
+@media screen and (max-width: 600px){
+    .calender_heading{
+        font-size: 24px;
+        color: 1px solid rgb(255,180,0);
+      
+
+    }
+}
+
+ @media screen and (max-width: 340px){
+    .calender_heading{
+        font-size: 20px;
+        color: 1px solid rgb(255,180,0);
+       
+    }
+} */
+
+
+
+
+.calander{
+/* border : solid 1px yellow; */
+
+font-family: 'Montserrat', sans-serif;
+padding: 60px 0;
+margin: auto;
+text-align: center;
+}
+
+.whyy{
+    color: rgb(255,180,0);
+    font-size: 40px;
+}
+
+.cal{
+    margin: auto;
+    text-align: center;
+    color : white;
+    border: solid green 1px;
+    width: 60%;
+}
+.innercal{
+    width: 120%;
+}
+
+
+/* contribution------- */
+.contribution{
+    /* border: solid green 1px; */
+    width: 60%;
+    margin: auto;
+}
+
+.contribution img{
+    width: 100%;
+}
+
+/* Languages ------*/
+.language{
+    /* border: solid green 1px; */
+    width: 60%;
+    margin: auto;
+}
+.language  img{
+    width: 100%;
+}
+
+/* stats------ */
+.stats{
+    /* border: solid green 1px; */
+    width: 60%;
+    margin: auto;
+}
+.stats img{
+    width: 100%;
+    
+  
+}
