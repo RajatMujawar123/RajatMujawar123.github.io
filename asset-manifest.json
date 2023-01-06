@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.61466aa0.css",
+    "main.js": "/static/js/main.1d13c6ca.js",
+    "static/media/rjt.jpg": "/static/media/rjt.57e385a71c8e9966c7a9.jpg",
+    "static/media/rjt2.jpg": "/static/media/rjt2.17c0bdf4db1bf92be056.jpg",
+    "static/media/penitanteCave.png": "/static/media/penitanteCave.61a344db6cffbc6e1294.png",
+    "index.html": "/index.html",
+    "main.61466aa0.css.map": "/static/css/main.61466aa0.css.map",
+    "main.1d13c6ca.js.map": "/static/js/main.1d13c6ca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61466aa0.css",
+    "static/js/main.1d13c6ca.js"
+  ]
+}
