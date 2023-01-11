@@ -45,7 +45,7 @@ const Calander = () => {
                     />
                 </div>
                 <div className='contribution'>
-                    <img src="https://streak-stats.demolab.com/?user=RajatMujawar123&theme=gruvbox&border_radius=15&date_format=M%20j%5B%2C%20Y%5D&color=4db5ff" alt="contribution" />
+                    <img src="https://streak-stats.demolab.com/?username=RajatMujawar123&theme=gruvbox&border_radius=15&date_format=M%20j%5B%2C%20Y%5D&color=4db5ff" alt="contribution" />
                 </div>
                 <div className='language'>
                     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajatMujawar123&layout=compact&theme=gruvbox&border_radius=15&color=fb982f&border=rgb(255,180,0)" alt="language" />
