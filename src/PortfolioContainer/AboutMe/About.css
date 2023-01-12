@@ -171,13 +171,20 @@
         margin-top: 40px;
         padding: 0 10px;
     }
+    .nnn{
+         /* border: solid green 1px; */
+        margin: auto;
+        width: 300px;
+    }
     .keyHighlights{
         list-style-type: "🔴 ";
-        color: rgb(255,180,0)
+        color: white;
+        
     }
     
     .resumeBtn{
         margin-top: 30px;
+     
     }
     
 }

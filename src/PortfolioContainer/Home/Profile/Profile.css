@@ -162,6 +162,9 @@
     .profile-optins{
         display: flex;
         justify-content: space-between;
+        /* border: solid red 1px; */
+        margin: auto;
+        width: 200px;
     }
     .profile-details{
         margin: 25px 0 0;
