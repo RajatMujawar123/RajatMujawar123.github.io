@@ -59,7 +59,7 @@
 .projectCard{
     display: grid;
     /* grid-template-columns: repeat(2,1fr); */
-    grid-template-columns: repeat(auto-fit,minmax(400px,1fr));
+    grid-template-columns: repeat(auto-fit,minmax(350px,1fr));
     grid-template-rows: repeat(200px 200px);
     /* border: solid red 1px; */
     height: fit-content;
@@ -151,7 +151,7 @@
 .projectLinks .projectbtn1:hover{
     /* background-color: rgb(4, 95, 221); */
     border: solid rgb(255,180,0) 0px;
-    /* border: 2px solid rgb(4, 95, 221); */
+    
     background-color: rgb(255,180,0);
 }
 .contentProject{
@@ -168,7 +168,7 @@
 }
 
 @media screen and (max-width: 480px){
-   
+  
     .project-card{
         margin: 15px 00px;
     }

@@ -22,6 +22,7 @@ export default function Navbar() {
         
     }
 
+
     useEffect(() => {
         toggleMenuBar = document.getElementById("navMenuCollapsibleMenu");
         let iTag = document.getElementById('fabtn');
@@ -77,6 +78,10 @@ export default function Navbar() {
                     <Link className="hoverColor" to="Contact" spy={true} smooth={true} offset={0} duration={500}>
                         Contact
                     </Link>
+
+                    <a className="hColor" spy={true} smooth={true}  offset={0} duration={500} href="https://drive.google.com/file/d/1X7JP79bGjHTzElWu8BOTHT5wytL2cNhI/view?usp=sharing">
+                        Resume
+                    </a>
             </div>
         </div>
         <div id="navMenuCollapsibleMenu" className="InActiveNavMenu">
@@ -102,6 +107,10 @@ export default function Navbar() {
                     <Link to="Contact" spy={true} smooth={true} offset={0} duration={500}>
                         Contact
                     </Link>
+
+                    <a className="hColor" spy={true} smooth={true}  offset={0} duration={500} href="https://drive.google.com/file/d/1X7JP79bGjHTzElWu8BOTHT5wytL2cNhI/view?usp=sharing">
+                        Resume
+                    </a>
                 </div>
         </div>   
     </div>

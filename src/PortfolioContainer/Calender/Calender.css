@@ -98,7 +98,7 @@ text-align: center;
     margin: auto;
     text-align: center;
     color : white;
-    border: solid green 1px;
+    /* border: solid green 1px; */
     width: 60%;
 }
 .innercal{

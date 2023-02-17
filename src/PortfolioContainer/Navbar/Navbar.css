@@ -61,15 +61,15 @@
     color: #fff;
 }
 .stickyy{
-    background: rgb(34,120,219);
-    background: linear-gradient(90deg, rgba(34,120,219,0.95) 0%, rgba(20,3,56,1) 100%);
+    /* background: rgb(34,120,219);
+    background: linear-gradient(90deg, rgba(34,120,219,0.95) 0%, rgba(20,3,56,1) 100%); */
     background: rgb(17,17,17);
 }
 
 #navMenuCollapsibleMenu{
     padding: 0 10px;
     border-top: 1px solid #fff;
-    background: rgb(34,120,219);
+    /* background: rgb(34,120,219); */
     background: rgb(17,17,17);
 }
 .InActiveNavMenu{
@@ -99,7 +99,9 @@
 .toggleMenuButton{
     display: none;
 }
-@media screen and (max-width: 500px){
+
+
+@media screen and (max-width: 480px){
     .navMenuBarMain{
         display: none;
     }
@@ -107,11 +109,19 @@
         display: block;
     }
     .stickyy{
-        background: rgba(20,3,56,1);
+        /* background: rgba(20,3,56,1); */
         background: rgb(17,17,17);
     }
 }  
 
+.hColor{
+    color:white;
+    text-decoration:none
+}
+
 .hoverColor:hover{
+    color:  rgb(255,180,0);
+}
+.hColor:hover{
     color:  rgb(255,180,0);
 }

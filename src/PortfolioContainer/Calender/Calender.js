@@ -1,5 +1,4 @@
 
-
 import React from 'react'
 // import { Box, Flex, Grid, Image, Heading } from "@chakra-ui/react";
 // import "./github.css"
@@ -12,14 +11,14 @@ const Calander = () => {
     const selectLastHalfYear = (contributions) => {
         const currentYear = new Date().getFullYear();
         const currentMonth = new Date().getMonth();
-        const shownMonths = 7;
+        const shownMonths = 5;
 
         return contributions.filter((day) => {
             const date = new Date(day.date);
             const monthOfDay = date.getMonth();
 
             return (
-                date.getFullYear() === currentYear &&
+                date.getFullYear() === currentYear ||
                 monthOfDay > currentMonth - shownMonths ||
                 monthOfDay <= currentMonth
             );
@@ -40,7 +39,7 @@ const Calander = () => {
                     className="innercal"
                         username="RajatMujawar123"
                         transformData={selectLastHalfYear}
-                        color="1f1f38"
+                        color="3ecc04"
                         width="100vw"
                     />
                 </div>

@@ -30,7 +30,7 @@ export default function Contact() {
   const sendEmail = (e) => {
     e.preventDefault();
     
-    emailjs.send('service_3c0oigr', 'template_pnjjhc8', templateParams,'2Qowuf2uPNuVz2jcl')
+    emailjs.send('service_vf9nzlf', 'template_y7vuihd', templateParams,'BVPXVog--P-HGCbSn')
 
 
             .then((response) => {
