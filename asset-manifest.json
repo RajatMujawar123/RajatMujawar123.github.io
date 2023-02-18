@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.b79221dd.css",
-    "main.js": "/static/js/main.6cd6c765.js",
+    "main.css": "/static/css/main.08f0de29.css",
+    "main.js": "/static/js/main.7c1bea6c.js",
     "static/media/rjt.jpg": "/static/media/rjt.57e385a71c8e9966c7a9.jpg",
     "static/media/rjt2.jpg": "/static/media/rjt2.17c0bdf4db1bf92be056.jpg",
     "static/media/penitanteCave.png": "/static/media/penitanteCave.61a344db6cffbc6e1294.png",
     "index.html": "/index.html",
-    "main.b79221dd.css.map": "/static/css/main.b79221dd.css.map",
-    "main.6cd6c765.js.map": "/static/js/main.6cd6c765.js.map"
+    "main.08f0de29.css.map": "/static/css/main.08f0de29.css.map",
+    "main.7c1bea6c.js.map": "/static/js/main.7c1bea6c.js.map"
   },
   "entrypoints": [
-    "static/css/main.b79221dd.css",
-    "static/js/main.6cd6c765.js"
+    "static/css/main.08f0de29.css",
+    "static/js/main.7c1bea6c.js"
   ]
 }
