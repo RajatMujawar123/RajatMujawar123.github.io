@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.f39222bc.css",
-    "main.js": "/static/js/main.1d4df9fe.js",
+    "main.js": "/static/js/main.4e1da626.js",
     "static/media/rjt.jpg": "/static/media/rjt.57e385a71c8e9966c7a9.jpg",
     "static/media/myntra.png": "/static/media/myntra.7853d4682ee34fe459a8.png",
     "static/media/rjt2.jpg": "/static/media/rjt2.17c0bdf4db1bf92be056.jpg",
@@ -11,10 +11,10 @@
     "static/media/Rajat_Mujawar_Resume.pdf": "/static/media/Rajat_Mujawar_Resume.c55a270ba766f119cf87.pdf",
     "index.html": "/index.html",
     "main.f39222bc.css.map": "/static/css/main.f39222bc.css.map",
-    "main.1d4df9fe.js.map": "/static/js/main.1d4df9fe.js.map"
+    "main.4e1da626.js.map": "/static/js/main.4e1da626.js.map"
   },
   "entrypoints": [
     "static/css/main.f39222bc.css",
-    "static/js/main.1d4df9fe.js"
+    "static/js/main.4e1da626.js"
   ]
 }
