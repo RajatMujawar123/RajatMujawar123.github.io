@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.1e60e307.css",
-    "main.js": "/static/js/main.77399f41.js",
+    "main.css": "/static/css/main.1d49d941.css",
+    "main.js": "/static/js/main.72135a27.js",
     "static/media/rjt.jpg": "/static/media/rjt.57e385a71c8e9966c7a9.jpg",
     "static/media/myntra.png": "/static/media/myntra.7853d4682ee34fe459a8.png",
     "static/media/rjt2.jpg": "/static/media/rjt2.17c0bdf4db1bf92be056.jpg",
@@ -10,11 +10,11 @@
     "static/media/kickstarter.png": "/static/media/kickstarter.d9538e622374e48aad6a.png",
     "static/media/Rajat_Mujawar_Resume.pdf": "/static/media/Rajat_Mujawar_Resume.c55a270ba766f119cf87.pdf",
     "index.html": "/index.html",
-    "main.1e60e307.css.map": "/static/css/main.1e60e307.css.map",
-    "main.77399f41.js.map": "/static/js/main.77399f41.js.map"
+    "main.1d49d941.css.map": "/static/css/main.1d49d941.css.map",
+    "main.72135a27.js.map": "/static/js/main.72135a27.js.map"
   },
   "entrypoints": [
-    "static/css/main.1e60e307.css",
-    "static/js/main.77399f41.js"
+    "static/css/main.1d49d941.css",
+    "static/js/main.72135a27.js"
   ]
 }
