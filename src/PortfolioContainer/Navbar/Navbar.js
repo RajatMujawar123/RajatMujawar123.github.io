@@ -81,6 +81,7 @@ export default function Navbar() {
 
                     <a className="hColor" spy={true} smooth={true}  offset={0} duration={500} href="https://drive.google.com/file/d/1GqytiEPWdKdfcPRROGuaRYJmCWD5t2Eq/view?usp=sharing">
                         Resume
+                        
                     </a>
             </div>
         </div>
