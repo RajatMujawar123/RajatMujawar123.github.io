@@ -79,7 +79,7 @@ export default function Navbar() {
                         Contact
                     </Link>
 
-                    <a className="hColor" spy={true} smooth={true}  offset={0} duration={500} href="https://drive.google.com/file/d/1X7JP79bGjHTzElWu8BOTHT5wytL2cNhI/view?usp=sharing">
+                    <a className="hColor" spy={true} smooth={true}  offset={0} duration={500} href="https://drive.google.com/file/d/1GqytiEPWdKdfcPRROGuaRYJmCWD5t2Eq/view?usp=sharing">
                         Resume
                     </a>
             </div>

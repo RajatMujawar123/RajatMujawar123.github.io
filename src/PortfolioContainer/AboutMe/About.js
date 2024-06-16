@@ -37,7 +37,7 @@ export default function About() {
                         </ul>
                     </div>
                     <div className="profile-optins resumeBtn">
-                        <a href="https://drive.google.com/file/d/1X7JP79bGjHTzElWu8BOTHT5wytL2cNhI/view?usp=sharing" target="_blank" download="resume.pdf">
+                        <a href="https://drive.google.com/file/d/1GqytiEPWdKdfcPRROGuaRYJmCWD5t2Eq/view?usp=sharing" target="_blank" download="resume.pdf">
                             <button className='resumeButton2'>Get Resume</button>
                         </a>
                     </div>

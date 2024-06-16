@@ -50,7 +50,7 @@ export default function Profile() {
                     </span>
                 </div>
                 <div className="profile-optins">
-                    <a href="https://drive.google.com/file/d/1X7JP79bGjHTzElWu8BOTHT5wytL2cNhI/view?usp=sharing" target="_blank" download="resume.pdf">
+                    <a href="https://drive.google.com/file/d/1GqytiEPWdKdfcPRROGuaRYJmCWD5t2Eq/view?usp=sharing" target="_blank" download="resume.pdf">
                         <button className='resumeButton'>Get Resume</button>
                     </a>
                 </div>

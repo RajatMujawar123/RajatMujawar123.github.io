@@ -2,8 +2,8 @@ import React from 'react'
 import './Skills.css'
 import  {FaJava} from 'react-icons/fa';
 import  {GiSkills} from 'react-icons/gi';
-import  {ImHtmlFive, ImDatabase} from 'react-icons/im';
-import  {GrJava, GrNode, GrReactjs} from 'react-icons/gr';
+import  {ImHtmlFive} from 'react-icons/im';
+import  {GrJava, GrNode} from 'react-icons/gr';
 import  {RiGitBranchLine} from 'react-icons/ri'
 
 
@@ -54,19 +54,19 @@ export default function Skills() {
                 </div>
 
                 <div className='skillBox skillbox7'>
-                    <div className='sillIcon'><img src='https://cdn-icons-png.flaticon.com/512/848/848525.png'></img></div>
+                    <div className='sillIcon'><img src='https://cdn-icons-png.flaticon.com/512/848/848525.png' alt='error'></img></div>
                     <div className='skillTitle'>Data Structure</div>
                     <div className='skillInfo'>300+ Hours of DSA</div> 
                 </div>
 
                 <div className='skillBox skillbox8'>
-                    <div className='sillIcon'><img src="https://png.pngtree.com/png-vector/20190607/ourmid/pngtree-frontendinterfacemobilephonedeveloper-line-icon-png-image_1235458.jpg"></img></div>
+                    <div className='sillIcon'><img src="https://png.pngtree.com/png-vector/20190607/ourmid/pngtree-frontendinterfacemobilephonedeveloper-line-icon-png-image_1235458.jpg" alt='error'></img></div>
                     <div className='skillTitle'>Fronted Developer</div>
                     <div className='skillInfo'>1200+ Hours of coding</div> 
                 </div>
 
                 <div className='skillBox skillbox9'>
-                    <div className='sillIcon'><img src="https://c3.klipartz.com/pngpicture/737/709/sticker-png-numix-circle-for-windows-mongodb-icon-thumbnail.png"></img></div>
+                    <div className='sillIcon'><img src="https://c3.klipartz.com/pngpicture/737/709/sticker-png-numix-circle-for-windows-mongodb-icon-thumbnail.png" alt='error'></img></div>
                     <div className='skillTitle'>Mongo DB</div>
                     <div className='skillInfo'>Data Base</div> 
                 </div>
